@@ -2,14 +2,14 @@
 description: >-
   Too many things started. Too few seen through. A place to keep track of them
   all.
-dateModified: '2016-06-04T23:36:13.647Z'
-datePublished: '2016-06-04T23:36:13.875Z'
+dateModified: '2016-06-04T23:35:45.408Z'
+datePublished: '2016-06-04T23:36:02.932Z'
 title: The Projects of Nick Jones
 author:
   - name: Nick Jones
     url: 'http://narrowdesign.com'
+starred: false
 sourcePath: _posts/2016-06-04-the-projects-of-nick-jones.md
-starred: true
 inFeed: true
 hasPage: false
 inNav: false
