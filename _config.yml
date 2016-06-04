@@ -1,19 +1,4 @@
-name: jones
-favicon: null
-layout_spectrum: 0.552592100109905
 typography_spectrum: 0.48183430009521544
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#17BEBB'
@@ -25,4 +10,19 @@ color:
   lightness: 0.5441738667432219
   saturation: 0.5765180930029601
   rhythmicContrast: 0.6745248795486987
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.552592100109905
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: jones
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
