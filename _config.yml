@@ -19,10 +19,16 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: jones
+author:
+  name: Nick Jones
+  email: nick@narrowdesign.com
+  url: 'http://narrowdesign.com'
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e20ff65-2d05-494a-85c8-edeb7fce8c32.png'
+name: Various Projects
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/be77ef71-9950-4504-b2c4-e7130e98fb45.png'
+title: "Too many projects started. Too few seen through. This is a place to keep track of them so they don't get lost."
 purpose: []
